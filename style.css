@@ -1,0 +1,26 @@
+.class{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 1px solid white;
+    margin-left: -50px;
+}
+.class:first-child{
+    margin-left: 0;
+}
+.content{
+    background-color: yellow;
+    padding: 30px;
+    display: inline-block;
+}
+h1{
+    font-size: 24px;
+}
+h1,p,img.noidung{
+margin: 0 auto;
+margin-left: 500px;
+margin-right: 500px;
+}
+.content{
+    margin-left: 500px;
+}
